@@ -1,0 +1,7 @@
+0 Arduino
+1 Capacitor
+2 IC
+3 Led
+4 NodeMCU
+5 Resistor
+6 Transistor
