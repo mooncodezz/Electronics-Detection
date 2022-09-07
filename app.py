@@ -37,6 +37,5 @@ while True:
     os.system('figlet ' + output)
 
 
-exit_process = 'q' 
 
     
