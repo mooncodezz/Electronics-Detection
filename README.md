@@ -11,4 +11,4 @@ cd Electronics-Detection
 
 pip install -r requirements.txt
 
-python3 app.py
+python app.py หรือ python3 app.py
